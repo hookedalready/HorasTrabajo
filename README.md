@@ -10,7 +10,7 @@ Hora Inicio	Hora Final	Detalle de actividad
 Raquisitos
 Android v.10 o mayor
 Android Estudio
-Hoja Google Sheet personal "Horastrabajo"
+Hoja Google Sheet personal "Horastrabajo", no la pongan en privado porque va requerir pasos extrab
 
 Fases del Proyecto
 1-Base de datos conexion con googlesheets (Listo)
