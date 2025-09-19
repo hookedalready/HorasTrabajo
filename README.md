@@ -16,4 +16,4 @@ Fases del Proyecto
 1-Base de datos conexion con googlesheets (Listo)
 2-Desarrollo de Interfaz (En Progreso)
 
-Nota: Es mi primer proyecto y estoy aprendiendo a controlar Github, por lo que voy a limitarme en darle formato al github por el momento
+Nota: Es mi primer proyecto y estoy aprendiendo a controlar Github, por lo que voy a limitarme en no darle formato al github por el momento
